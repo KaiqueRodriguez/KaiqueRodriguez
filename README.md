@@ -66,6 +66,7 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/KaiqueRodriguez/KaiqueRodriguez/output/galaga-contribution-graph-dark.svg">
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/KaiqueRodriguez/KaiqueRodriguez/output/galaga-contribution-graph.svg">
