@@ -27,11 +27,12 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 [![GITHUB](https://img.shields.io/badge/GITHUB-0A2472?style=for-the-badge&logo=github&logoColor=white)](https://nice-readme.vercel.app/badges)
 [![COPILOT](https://img.shields.io/badge/GITHUBCOPILOT-0A2472?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://nice-readme.vercel.app/badges)
 [![VSCODE](https://img.shields.io/badge/VSCODE-0A2472?style=for-the-badge&logoColor=white)](https://nice-readme.vercel.app/badges)
+</div>
 
 -----
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
-<div align="left"> 
+<div> 
  <table> 
   <tr> 
    <td> 
