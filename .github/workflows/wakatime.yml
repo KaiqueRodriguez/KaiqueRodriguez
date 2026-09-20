@@ -1,22 +1,16 @@
 name: WakaTime Stats
 
 on:
-  schedule:
-    - cron: "1 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: avinal/Profile-Readme-WakaTime@v4
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
-          COMMIT_MSG: "Update WakaTime stats"
-          STATS_RANGE: "last_7_days"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
