@@ -50,14 +50,20 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
 
 <table>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=icq8l2cs6cg88ab1zz6fae0se&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
-  </a>
-</p>
-<a href="https://open.spotify.com/user/icq8l2cs6cg88ab1zz6fae0se">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=icq8l2cs6cg88ab1zz6fae0se&amp;count=10&amp;width=550&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="550" />
-</a>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=icq8l2cs6cg88ab1zz6fae0se&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+        </a>
+      </p>
+    </td>
+    <td>
+      <a href="https://open.spotify.com/user/icq8l2cs6cg88ab1zz6fae0se">
+        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=icq8l2cs6cg88ab1zz6fae0se&amp;count=10&amp;width=550&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="550" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=KaiqueRodriguez&style=for-the-badge&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
