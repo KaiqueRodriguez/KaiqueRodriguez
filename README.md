@@ -29,14 +29,7 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 [![VSCODE](https://img.shields.io/badge/VSCODE-0A2472?style=for-the-badge&logoColor=white)](https://nice-readme.vercel.app/badges)
 
 -----
-##<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
-<div align="left">
- 
-<img
-  src="https://raw.githubusercontent.com/KaiqueRodriguez/KaiqueRodriguez/main/images/stat.svg"
-  alt="WakaTime Coding Activity"
-/>
------
+
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
 <div align="left">
  
