@@ -46,7 +46,7 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
     </td>
     <td>
       <a href="https://open.spotify.com/user/icq8l2cs6cg88ab1zz6fae0se">
-        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=icq8l2cs6cg88ab1zz6fae0se&amp;count=10&amp;width=550&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="550" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=icq8l2cs6cg88ab1zz6fae0se&amp;count=10&amp;unique=1&amp;album=1" alt="Spotify recently played" width="400" />
       </a>
     </td>
   </tr>
