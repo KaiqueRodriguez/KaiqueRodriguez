@@ -6,7 +6,6 @@
 
 -----
 # 👨🏻‍💻 Kaique Rodrigues
-**`FullStack Developer`**
 
 [![lINKEDLN](https://img.shields.io/badge/LINKEDLN-blue?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kaique-rodrigues-do-vale-28b519349/)
 [![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1380327469931823169)
@@ -33,13 +32,10 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 ##<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
 <div align="left">
  
-<p align="center">
-  <img
-    src="https://github.com/KaiqueRodriguez/KaiqueRodriguez/blob/main/images/stat.svg"
-    alt="WakaTime Coding Activity"
-  />
-</p>
-
+<img
+  src="https://raw.githubusercontent.com/KaiqueRodriguez/KaiqueRodriguez/main/images/stat.svg"
+  alt="WakaTime Coding Activity"
+/>
 -----
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
 <div align="left">
