@@ -7,10 +7,7 @@
 -----
 # 👨🏻‍💻 Kaique Rodrigues
 
-<a href="https://www.linkedin.com/in/kaique-rodrigues-do-vale-28b519349/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn">
-</a>
-
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kaique-rodrigues-do-vale-28b519349/)
 [![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1380327469931823169)
 [![GMAIL](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![INSTAGRAM](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/kaique_rodriguez_/)
