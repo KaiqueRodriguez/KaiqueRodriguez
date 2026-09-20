@@ -31,12 +31,11 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 -----
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
-<div align="left">
-
-<table align="left">
-  <tr>
-    <td>
-      <p align="left">
+<div align="left"> 
+ <table> 
+  <tr> 
+   <td> 
+    <p align="center">
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=icq8l2cs6cg88ab1zz6fae0se&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
         </a>
