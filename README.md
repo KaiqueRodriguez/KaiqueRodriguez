@@ -5,39 +5,20 @@
 </div>
 
 -----
------
+# 👨🏻‍💻 Kaique Rodrigues
+**`FullStack Developer`**
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://github.com/KaiqueRodriguez" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:kaiquerodriguesvale33@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/kaique_rodriguez_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="www.linkedin.com/in/kaique-rodrigues-do-vale-28b519349" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+[![lINKEDLN](https://img.shields.io/badge/LINKEDLN-blue?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kaique-rodrigues-do-vale-28b519349/)
+[![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1380327469931823169)
+[![GMAIL](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![INSTAGRAM](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/kaique_rodriguez_/)
 
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-</div>
+Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando tive meu primeiro contato com programação durante meus estudos em uma escola técnica. Desde então, venho aprofundando meus conhecimentos por meio de estudos e projetos práticos, com foco principalmente em Front-End e Python. Atualmente, sou estudante de Engenharia de Software na PUC Minas e trabalho na **[HyperCloud](https://hypercloud.com.br)** como Analista de Monitoramento NOC, prestando serviços para a **[SADA](https://www.gruposada.com.br)**. Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e desenvolver soluções que contribuam para meu crescimento profissional.
 
------
+ ---
 
- Me chamo Kaique Rodrigues do Vale. Desde criança, sou fascinado pela tecnologia e suas diversas áreas. Em 2022, iniciei meus estudos na Funec Riacho e, desde então, venho me aprofundando por conta própria, explorando novas ferramentas e desenvolvendo projetos práticos. Atualmente, foco no desenvolvimento Front-End e em Python, sempre buscando aprimorar minhas habilidades e acompanhar as tendências do setor. Sou uma pessoa comunicativa, disciplinada e otimista, com facilidade para trabalhar em equipe e enfrentar desafios. Meu objetivo é contribuir com inovação e crescimento onde estiver, sempre explorando novas possibilidades no mundo da tecnologia. Trabalho atualmente como Analista de Monitoramento para a SADA e curso Engenharia de Software na PUC MINAS.
+ <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ed75b4e7-cbf2-4abe-8e20-d6e4510fe363" />
 
- -----
- 
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@890c65ae-4047-43dd-9fb0-1a8cb06c1fd1">WakaTime</a></td>
