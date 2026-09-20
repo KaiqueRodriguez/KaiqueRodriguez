@@ -56,6 +56,8 @@
 <tr>
 <td>
 
+-----
+
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
@@ -70,3 +72,16 @@
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+
+-----
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=icq8l2cs6cg88ab1zz6fae0se&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
+<a href="https://open.spotify.com/user/icq8l2cs6cg88ab1zz6fae0se">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=icq8l2cs6cg88ab1zz6fae0se&amp;count=10&amp;width=550&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="550" />
+</a>
+
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=KaiqueRodriguez&style=for-the-badge&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
