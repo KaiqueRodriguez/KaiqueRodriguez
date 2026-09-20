@@ -30,17 +30,14 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 [![VSCODE](https://img.shields.io/badge/VSCODE-0A2472?style=for-the-badge&logoColor=white)](https://nice-readme.vercel.app/badges)
 
 -----
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
 
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
+<p align="center">
+  <img
+    src="https://github.com/KaiqueRodriguez/KaiqueRodriguez/blob/main/images/stat.svg"
+    alt="WakaTime Coding Activity"
+  />
+</p>
 
 -----
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
