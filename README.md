@@ -17,7 +17,7 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 
  ---
 
-##<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
 <div align="center">
 
 [![Python](https://img.shields.io/badge/python-0A2472?style=for-the-badge&logo=python&logoColor=white)](https://nice-readme.vercel.app/badges)
