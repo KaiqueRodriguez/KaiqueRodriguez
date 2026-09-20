@@ -31,7 +31,7 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 
 -----
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/> GitHub Stats:
-<div align="center">
+<div align="left">
  
 <p align="center">
   <img
@@ -42,7 +42,7 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 
 -----
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
-<div align="center">
+<div align="left">
  
 <table>
   <tr>
