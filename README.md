@@ -68,7 +68,4 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
     src="https://raw.githubusercontent.com/KaiqueRodriguez/KaiqueRodriguez/output/galaga-contribution-graph.svg">
 </picture>
 
-<div align="left">
-<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=KaiqueRodriguez&style=for-the-badge&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
-</div>
 
