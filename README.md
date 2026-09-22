@@ -31,6 +31,10 @@ Me chamo Kaique Rodrigues do Vale, tenho 20 anos e programo desde os 15, quando 
 
 -----
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiqueRodriguez&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaiqueRodriguez&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaiqueRodriguez&theme=holi&utcOffset=0)
+
 ## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Meu Spotify
 <div align="center"> 
  <table> 
